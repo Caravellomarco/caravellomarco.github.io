@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Caravello;Marco;;;
+FN:Marco Caravello
+ORG:
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:+393420165944
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:caravello.marco@gmail.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Instagram:https://instagram.com/caravello.marco
+URL;TYPE=GitHub:https://github.com/caravellomarco
+URL;TYPE=LinkedIn:https://linkedin.com/www.linkedin.com/in/marco-caravello
+URL;TYPE=PayPal:https://paypal.me/caravellomarco
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100429508
+END:VCARD
